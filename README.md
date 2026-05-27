@@ -1,3 +1,5 @@
+![Rodrigo GitHub Banner](assetsgithub-banner.png.png)
+
 # Hi, I'm Rodrigo 👋
 
 ### Data Science Student | Data Analytics | Product Analytics
